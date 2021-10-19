@@ -6,4 +6,5 @@
 #
 #
 ###############################################################################
-from odoo import models, fields, api, 
+#Comentario
+print ('hola Joas')
